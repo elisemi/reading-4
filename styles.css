@@ -1,0 +1,44 @@
+body {
+    position: relative;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    background: white;
+    font-family: 'Didact Gothic', sans-serif;
+    color: #3a3a3a;
+    -webkit-font-smoothing: antialiased;
+    font-smoothing: antialiased;
+}
+
+h1 {
+    position: relative;
+    color: #5a220f;
+    font-size: 50px;
+    font-family: 'DM Serif Display', 'Times New Roman', Times, serif;
+    font-weight: 100;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.rectangle {
+    position: absolute;
+    height: auto;
+    width: 685px;
+    background-color: transparent;
+}
+
+p {
+    font-weight: 500;
+    font-size: 16px;
+}
+
+.q {
+    font-size: 16px;
+    font-weight: bold;
+    margin: 150px 0 0 0;
+}
+
+.a {
+    font-weight: 100;
+    margin: 0px 0 0 0;
+}
